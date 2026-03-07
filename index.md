@@ -1,9 +1,9 @@
 ---
 ---
 
-# nerlab's Website
+# Neural Engineering Research Laboratory
 
-An engaging 1-3 sentence description of your lab.
+Merging engineering and neuroscience to understand the motor system and design cutting-edge neurotechnologies.
 
 {% include section.html %}
 
