@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: nerlab@unicamp.br
-  orcid: false
-  google-scholar: false
+#  orcid: false
+#  google-scholar: false
   github: nerlab
-  twitter: false
-  youtube: false
+#  twitter: false
+#  youtube: false
 
 ### jekyll settings
 
