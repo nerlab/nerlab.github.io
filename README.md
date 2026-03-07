@@ -5,6 +5,6 @@
 
   # nerlab's Website
 
-  Visit **[nerlab.github.io/ner-lab-website](https://nerlab.github.io/ner-lab-website)** 🚀
+  Visit **[nerlab.github.io](https://nerlab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
