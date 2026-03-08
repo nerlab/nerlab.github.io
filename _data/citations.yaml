@@ -1,192 +1,477 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.64898/2026.02.09.704796
+  title: A Biomechanical Hand Model to Quantify Finger Joint Kinematics Using a 3D
+    Motion Capture System
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - "Valeria Avil\xE9s-Carrillo"
+  - Ricardo G. Molinari
+  - Guilherme A. G. De Villa
+  - Leonardo A. Elias
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2026-02-11'
+  link: https://doi.org/hbrsfc
+  orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.6084/m9.figshare.31032934
+  title: HD sEMG of Forearm Muscles and 3D Hand Kinematics During Sinusoidally-Modulated
+    Finger Movements and Grasping Tasks
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - "Valeria Avil\xE9s Carrillo"
+  - "Ricardo Gon\xE7alves Molinari"
+  - Guilherme Augusto Gomes De Villa
+  - Leonardo Abdala Elias
+  publisher: figshare
+  date: '2026-01-01'
+  link: https://doi.org/hbrsfd
+  orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.64898/2026.01.01.697284
+  title: 'MyoGen: Unified Biophysical Modeling of Human Neuromotor Activity and Resulting
+    Signals'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - "Raul C. S\xEEmpetru"
+  - Ricardo G. Molinari
+  - Devon R. Rohlf
+  - Rebeka L. Batichotti
+  - Renato N. Watanabe
+  - Leonardo A. Elias
+  - Alessandro Del Vecchio
   publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2026-01-02'
+  link: https://doi.org/hbrsff
+  orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1109/ACCESS.2026.3670500
+  title: A Wearable Platform for Real-Time Control of a Prosthetic Hand by High-Density
+    EMG
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Ricardo G. Molinari
+  - "Valeria Avil\xE9s-Carrillo"
+  - Guilherme A. G. De Villa
+  - Leonardo A. Elias
+  publisher: IEEE Access
+  date: '2026-01-01'
+  link: https://doi.org/hbrsfg
+  orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.6084/m9.figshare.30976438
+  title: "Da Neurofisiologia \xE0 Neuroengenharia: Investiga\xE7\xF5es Experimentais\
+    \ e Computacionais sobre o Sistema Sens\xF3rio-Motor Humano"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Leonardo Abdala Elias
+  publisher: figshare
+  date: '2026-01-01'
+  link: https://doi.org/hbrsfh
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00421-025-05880-5
+  title: Reassessment of isometric muscle force complexity under different contraction
+    intensities, joint angles, and visual feedback conditions
+  authors:
+  - Ellen Pereira Zambalde
+  - Carina Marconi Germer
+  - "Ricardo Gon\xE7alves Molinari"
+  - Francesco Negro
+  - Jakob Dideriksen
+  - Leonardo Abdala Elias
+  publisher: European Journal of Applied Physiology
+  date: '2025-07-01'
+  link: https://doi.org/hbrsfj
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.10.08.25337421
+  title: A Wearable Platform for Real-Time Control of a Prosthetic Hand by High-Density
+    EMG
+  authors:
+  - Ricardo G. Molinari
+  - "Valeria Avil\xE9s-Carrillo"
+  - Guilherme A. G. De Villa
+  - Leonardo A. Elias
   publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2025-10-13'
+  link: https://doi.org/hbrsfk
+  orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1016/j.compbiomed.2025.111048
+  title: Markov chain-based computational model to assess user skills in sequential
+    motor imagery tasks
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Cristian David Guerrero-Mendez
+  - Hamilton Rivera-Flor
+  - Denis Delisle-Rodriguez
+  - Leonardo Abdala Elias
+  - Teodiano Freire Bastos-Filho
+  publisher: Computers in Biology and Medicine
+  date: '2025-10-01'
+  link: https://doi.org/hbrsfm
+  orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1007/s42600-025-00401-x
+  title: 'Design and usability assessment of touchscreen interface in medical devices:
+    a case study of a neonatal incubator'
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Carlos Alessandro Bassi Viviani
+  - Leonardo Abdala Elias
+  - Saide Jorge Calil
+  publisher: Research on Biomedical Engineering
+  date: '2025-02-05'
+  link: https://doi.org/hbrsfn
+  orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1007/978-3-031-49407-9_20
+  title: "Assessment of\_Neuromuscular Function in\_Patients with\_Long-Term Symptoms\
+    \ of\_COVID-19"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Emilia F. Cremasco
+  - Ellen P. Zambalde
+  - Carina M. Germer
+  - Leonardo A. Elias
+  publisher: IFMBE Proceedings
+  date: '2024-01-01'
+  link: https://doi.org/hbrsfp
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-49404-8_43
+  title: Factors Affecting the Performance of FastICA Algorithm for Decomposition
+    of High-Density Surface Electromyogram
+  authors:
+  - Mateus Augusto Schneider Castilhos
+  - Leonardo Abdala Elias
+  publisher: IFMBE Proceedings
+  date: '2024-01-01'
+  link: https://doi.org/hbrsfq
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/japplphysiol.01041.2020
+  title: Surface EMG cross talk quantified at the motor unit population level for
+    muscles of the hand, thigh, and calf
+  authors:
+  - Carina M. Germer
+  - Dario Farina
+  - Leonardo A. Elias
+  - Stefano Nuccio
+  - "Fran\xE7ois Hug"
+  - Alessandro Del Vecchio
+  publisher: Journal of Applied Physiology
+  date: '2021-08-01'
+  link: https://doi.org/gk92kg
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s42600-020-00111-6
+  title: Assessment of force control improvement induced by sinusoidal vibrotactile
+    stimulation in dominant and non-dominant hands
+  authors:
+  - Carina Marconi Germer
+  - Luciana Sobral Moreira
+  - Leonardo Abdala Elias
+  publisher: Research on Biomedical Engineering
+  date: '2020-11-10'
+  link: https://doi.org/hbrsfr
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/access.2021.3108682
+  title: "A Data-Driven Biophysical Computational Model of Parkinson\u2019s Disease\
+    \ Based on Marmoset Monkeys"
+  authors:
+  - Caetano M. Ranieri
+  - Jhielson M. Pimentel
+  - Marcelo R. Romano
+  - Leonardo A. Elias
+  - Roseli A. F. Romero
+  - Michael A. Lones
+  - Mariana F. P. Araujo
+  - Patricia A. Vargas
+  - Renan C. Moioli
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/gprvf7
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1741-2552/ab5e08
+  title: Neurophysiological correlates of force control improvement induced by sinusoidal
+    vibrotactile stimulation
+  authors:
+  - Carina Marconi Germer
+  - Alessandro Del Vecchio
+  - Francesco Negro
+  - Dario Farina
+  - Leonardo Abdala Elias
+  publisher: Journal of Neural Engineering
+  date: '2020-01-31'
+  link: https://doi.org/hbrsfs
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/EMBC44109.2020.9176570
+  title: "Evaluation of Frequency-Dependent Effects of Deep Brain Stimulation in a\
+    \ Cortex-Basal Ganglia-Thalamus Network Model of Parkinson\u2019s Disease"
+  authors:
+  - Marcelo R. Romano
+  - Renan C. Moioli
+  - Leonardo A. Elias
+  publisher: 2020 42nd Annual International Conference of the IEEE Engineering in
+    Medicine &amp; Biology Society (EMBC)
+  date: '2020-07-01'
+  link: https://doi.org/gprvf9
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.archoralbio.2020.104683
+  title: Reliable measurement of incisal bite force for understanding the control
+    of masticatory muscles
+  authors:
+  - Luciana S. Moreira
+  - Leonardo A. Elias
+  - Carina M. Germer
+  - Evanisi T. Palomari
+  publisher: Archives of Oral Biology
+  date: '2020-04-01'
+  link: https://doi.org/hbrsft
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1113/JP278623
+  title: "The human central nervous system transmits common synaptic inputs to distinct\
+    \ motor neuron pools during non\u2010synergistic digit actions"
+  authors:
+  - A. Del Vecchio
+  - C. M. Germer
+  - L. A. Elias
+  - Q. Fu
+  - J. Fine
+  - M. Santello
+  - D. Farina
+  publisher: The Journal of Physiology
+  date: '2019-10-30'
+  link: https://doi.org/ggrk68
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11517-019-01999-8
+  title: Sinusoidal vibrotactile stimulation differentially improves force steadiness
+    depending on contraction intensity
+  authors:
+  - Carina Marconi Germer
+  - Luciana Sobral Moreira
+  - Leonardo Abdala Elias
+  publisher: Medical &amp; Biological Engineering &amp; Computing
+  date: '2019-06-14'
+  link: https://doi.org/hbrsfv
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/embc.2019.8857466
+  title: A computer simulation study on the influences of loss and damage of primary
+    muscle spindle afferents on soleus muscle stretch reflex
+  authors:
+  - Eliane C. Rodrigues
+  - Leonardo A. Elias
+  publisher: 2019 41st Annual International Conference of the IEEE Engineering in
+    Medicine and Biology Society (EMBC)
+  date: '2019-07-01'
+  link: https://doi.org/hbrsfw
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1590/2446-4740.00118
+  title: Perspectives on the modeling of the neuromusculoskeletal system to investigate
+    the influence of neurodegenerative diseases on sensorimotor control
+  authors:
+  - Leonardo Abdala Elias
+  - "D\xE9bora Elisa da Costa Matoso"
+  - Renato Naville Watanabe
+  - "Andr\xE9 Fabio Kohn"
+  publisher: Research on Biomedical Engineering
+  date: '2018-05-17'
+  link: https://doi.org/hbrsfx
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5277/ABB-00753-2016-02
+  title: A longitudinal assessment of myoelectric activity, postural sway, and low-back
+    pain during pregnancy
+  authors:
+  - Luciana S. Moreira
+  - Leonardo A. Elias
+  - Adriane B. Gomide
+  - Marcus F. Vieira
+  - Waldemar N. D. Amaral
+  publisher: Acta of Bioengineering and Biomechanics; 03/2017; ISSN 1509-409X
+  date: '2017-01-01'
+  link: https://doi.org/hbrsfz
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnhum.2017.00019
+  title: Reassessment of Non-Monosynaptic Excitation from the Motor Cortex to Motoneurons
+    in Single Motor Units of the Human Biceps Brachii
+  authors:
+  - Tsuyoshi Nakajima
+  - Toshiki Tazoe
+  - Masanori Sakamoto
+  - Takashi Endoh
+  - Satoshi Shibuya
+  - Leonardo A. Elias
+  - Rinaldo A. Mezzarane
+  - Tomoyoshi Komiyama
+  - Yukari Ohki
+  publisher: Frontiers in Human Neuroscience
+  date: '2017-01-30'
+  link: https://doi.org/hbrsf2
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0143862
+  title: D1 and D2 Inhibitions of the Soleus H-Reflex Are Differentially Modulated
+    during Plantarflexion Force and Position Tasks
+  authors:
+  - "Fernando Henrique Magalh\xE3es"
+  - Leonardo Abdala Elias
+  - Cristiano Rocha da Silva
+  - Felipe Fava de Lima
+  - Diana Rezende de Toledo
+  - "Andr\xE9 Fabio Kohn"
+  publisher: PLOS ONE
+  date: '2015-11-24'
+  link: https://doi.org/hbrsf3
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0121496
+  title: 'Enhanced D1 and D2 Inhibitions Induced by Low-Frequency Trains of Conditioning
+    Stimuli: Differential Effects on H- and T-Reflexes and Possible Mechanisms'
+  authors:
+  - "Rinaldo Andr\xE9 Mezzarane"
+  - "Fernando Henrique Magalh\xE3es"
+  - Vitor Martins Chaud
+  - Leonardo Abdala Elias
+  - "Andr\xE9 Fabio Kohn"
+  publisher: PLOS ONE
+  date: '2015-03-25'
+  link: https://doi.org/hbrsf4
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1003944
+  title: 'Spinal Mechanisms May Provide a Combination of Intermittent and Continuous
+    Control of Human Posture: Predictions from a Biologically Based Neuromusculoskeletal
+    Model'
+  authors:
+  - Leonardo Abdala Elias
+  - Renato Naville Watanabe
+  - "Andr\xE9 Fabio Kohn"
+  publisher: PLoS Computational Biology
+  date: '2014-11-13'
+  link: https://doi.org/gpf8pb
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2012.06.038
+  title: Individual and collective properties of computationally efficient motoneuron
+    models of types S and F with active dendrites
+  authors:
+  - Leonardo Abdala Elias
+  - "Andr\xE9 Fabio Kohn"
+  publisher: Neurocomputing
+  date: '2013-01-01'
+  link: https://doi.org/hbrsf5
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/jn.00073.2013
+  title: Influences of premotoneuronal command statistics on the scaling of motor
+    output variability during isometric plantar flexion
+  authors:
+  - Renato N. Watanabe
+  - "Fernando H. Magalh\xE3es"
+  - Leonardo A. Elias
+  - Vitor M. Chaud
+  - Emanuele M. Mello
+  - "Andr\xE9 F. Kohn"
+  publisher: Journal of Neurophysiology
+  date: '2013-12-01'
+  link: https://doi.org/f5mhgb
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/NER.2013.6696054
+  title: Low-frequency fluctuations of plantar flexion torque in force and position
+    control tasks studied experimentally and by a neuromusculoskeletal model
+  authors:
+  - Renato N. Watanabe
+  - Leonardo A. Elias
+  - Andre F. Kohn
+  publisher: 2013 6th International IEEE/EMBS Conference on Neural Engineering (NER)
+  date: '2013-11-01'
+  link: https://doi.org/hbrsf6
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4322/rbeb.2013.026
+  title: Web-based neuromuscular simulator applied to the teaching of principles of
+    neuroscience
+  authors:
+  - Leonardo Abdala Elias
+  - "Andr\xE9 Fabio Kohn"
+  publisher: "Revista Brasileira de Engenharia Biom\xE9dica"
+  date: '2013-01-01'
+  link: https://doi.org/hbrsf7
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/BioRob.2012.6290871
+  title: A simulation study of the effects of activation-dependent muscle stiffness
+    on proprioceptive feedback and short-latency reflex
+  authors:
+  - Vitor M. Chaud
+  - Leonardo A. Elias
+  - Renato N. Watanabe
+  - Andre F. Kohn
+  publisher: 2012 4th IEEE RAS &amp; EMBS International Conference on Biomedical Robotics
+    and Biomechatronics (BioRob)
+  date: '2012-06-01'
+  link: https://doi.org/hbrsf8
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10827-012-0398-4
+  title: Models of passive and active dendrite motoneuron pools and their differences
+    in muscle force control
+  authors:
+  - Leonardo Abdala Elias
+  - Vitor Martins Chaud
+  - "Andr\xE9 Fabio Kohn"
+  publisher: Journal of Computational Neuroscience
+  date: '2012-05-06'
+  link: https://doi.org/f4cqrg
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2009.02.006
+  title: 'Accommodation in motoneuron models with passive dendrite: Response to linearly
+    rising currents'
+  authors:
+  - Marcus Fraga Vieira
+  - Leonardo Abdala Elias
+  publisher: Neurocomputing
+  date: '2009-08-01'
+  link: https://doi.org/b9hcdq
+  orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -202,9 +487,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -221,21 +503,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
