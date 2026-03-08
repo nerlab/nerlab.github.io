@@ -1,8 +1,8 @@
 ---
 title: Projects
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 1
+  tooltip: Our Projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
