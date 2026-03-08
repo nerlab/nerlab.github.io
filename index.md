@@ -1,7 +1,7 @@
 ---
 ---
 
-# Neural Engineering Research Laboratory
+# The NER Lab
 
 Merging engineering and neuroscience to understand the motor system and design cutting-edge neurotechnologies.
 
