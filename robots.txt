@@ -1,1 +1,1 @@
-Sitemap: https://nerlab.github.io/sitemap.xml
+Sitemap: http://nerlab.ceb.unicamp.br/sitemap.xml
