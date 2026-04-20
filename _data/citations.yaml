@@ -86,20 +86,6 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.10.08.25337421
-  title: A Wearable Platform for Real-Time Control of a Prosthetic Hand by High-Density
-    EMG
-  authors:
-  - Ricardo G. Molinari
-  - "Valeria Avil\xE9s-Carrillo"
-  - Guilherme A. G. De Villa
-  - Leonardo A. Elias
-  publisher: openRxiv
-  date: '2025-10-13'
-  link: https://doi.org/hbrsfk
-  orcid: 0000-0003-4488-3063
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.compbiomed.2025.111048
   title: Markov chain-based computational model to assess user skills in sequential
     motor imagery tasks
@@ -128,6 +114,22 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/978-3-031-77588-8_161
+  title: "Visual Gain and\_Feedback Significantly Influence Alpha-Band Corticomuscular\
+    \ Coherence in\_Plantar Flexion Isometric Force Task"
+  authors:
+  - Cristian D. Guerrero-Mendez
+  - Felipe C. Pinheiro
+  - Diana R. de Toledo
+  - Felipe F. de Lima
+  - "Andr\xE9 F. Kohn"
+  - Leonardo A. Elias
+  publisher: Biosystems &amp; Biorobotics
+  date: '2025-01-01'
+  link: https://doi.org/hbt88h
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/978-3-031-49407-9_20
   title: "Assessment of\_Neuromuscular Function in\_Patients with\_Long-Term Symptoms\
     \ of\_COVID-19"
@@ -139,6 +141,20 @@
   publisher: IFMBE Proceedings
   date: '2024-01-01'
   link: https://doi.org/hbrsfp
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-77584-0_110
+  title: "Estimation of\_the\_Neural Drive to\_Forearm Muscles in\_Periodic Movements\
+    \ of\_Fingers"
+  authors:
+  - Ricardo G. Molinari
+  - Valeria A. Carrillo
+  - Guilherme A. G. De Villa
+  - Leonardo A. Elias
+  publisher: Biosystems &amp; Biorobotics
+  date: '2024-01-01'
+  link: https://doi.org/hbt88j
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
@@ -154,19 +170,153 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1152/japplphysiol.01041.2020
-  title: Surface EMG cross talk quantified at the motor unit population level for
-    muscles of the hand, thigh, and calf
+- id: doi:10.1007/978-3-031-77584-0_113
+  title: "Modulation of\_Myoelectric Activity by\_a\_Virtual Interface of\_a\_Prosthetic\
+    \ Hand"
   authors:
-  - Carina M. Germer
-  - Dario Farina
+  - Valeria A. Carrillo
+  - Ricardo G. Molinari
+  - Guilherme A. G. De Villa
   - Leonardo A. Elias
-  - Stefano Nuccio
-  - "Fran\xE7ois Hug"
-  - Alessandro Del Vecchio
-  publisher: Journal of Applied Physiology
-  date: '2021-08-01'
-  link: https://doi.org/gk92kg
+  publisher: Biosystems &amp; Biorobotics
+  date: '2024-01-01'
+  link: https://doi.org/hbt88k
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-77584-0_2
+  title: Shoulder Kinematics Predicts Lateral Asymmetries in Functional Tests of Hand
+    Dexterity
+  authors:
+  - Guilherme Augusto Gomes De Villa
+  - Ricardo G. Molinari
+  - Valeria A. Carrillo
+  - Leonardo Abdala Elias
+  publisher: Biosystems &amp; Biorobotics
+  date: '2024-01-01'
+  link: https://doi.org/hbt88m
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FNHUM.2023.1181647
+  title: 'Editorial: Towards an understanding of spinal and corticospinal pathways
+    and mechanisms'
+  authors:
+  - Leonardo Abdala Elias
+  - Pilwon Hur
+  - Gary C. Sieck
+  publisher: Frontiers in Human Neuroscience
+  date: '2023-03-21'
+  link: https://doi.org/hbt88n
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/NER52421.2023.10123760
+  title: Simulating The Effects of Low Intensity Focused Ultrasound in Parkinson's
+    Disease
+  authors:
+  - "\xCDtalo Karmann Aventurato"
+  - Marcelo Ramos Romano
+  - Leonardo Abdala Elias
+  publisher: 2023 11th International IEEE/EMBS Conference on Neural Engineering (NER)
+  date: '2023-04-24'
+  link: https://doi.org/gsngrv
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S40313-021-00890-Y
+  title: A Case Study on the Removal of Blinking Artifact in Electroencephalogram
+    Signals via Stochastic Filtering
+  authors:
+  - Rebecca Fernandes Ribeiro
+  - Victor Baptista Frencl
+  - Leonardo Abdala Elias
+  - "Jo\xE3o Bosco Ribeiro do Val"
+  publisher: Journal of Control, Automation and Electrical Systems
+  date: '2022-01-12'
+  link: https://doi.org/hbt88p
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.GAITPOST.2022.05.036
+  title: Effects of light finger touch on the regularity of center-of-pressure fluctuations
+    during quiet bipedal and single-leg postural tasks
+  authors:
+  - "J\xE9ssica Rodrigues Lara"
+  - Cristiano Rocha da Silva
+  - Felipe Fava de Lima
+  - Marcos Camargo da Silva
+  - "Andr\xE9 Fabio Kohn"
+  - Leonardo Abdala Elias
+  - "Fernando Henrique Magalh\xE3es"
+  publisher: Gait &amp; Posture
+  date: '2022-07-01'
+  link: https://doi.org/gtrvmb
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FNHUM.2022.1039242
+  title: Effects of voluntary contraction on the soleus H-reflex of different amplitudes
+    in healthy young adults and in the elderly
+  authors:
+  - Leandra Batista-Ferreira
+  - Natielle Ferreira Rabelo
+  - Gabriel Menezes da Cruz
+  - Juliana Nunes de Almeida Costa
+  - Leonardo Abdala Elias
+  - "Rinaldo Andr\xE9 Mezzarane"
+  publisher: Frontiers in Human Neuroscience
+  date: '2022-12-15'
+  link: https://doi.org/hbt88q
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FBIOE.2022.858156
+  title: High-Resolution Magic-Angle Spinning NMR Spectroscopy for Evaluation of Cell
+    Shielding by Virucidal Composites Based on Biogenic Silver Nanoparticles, Flexible
+    Cellulose Nanofibers and Graphene Oxide
+  authors:
+  - Danijela Stanisic
+  - Guilherme C. F. Cruz
+  - Leonardo Abdala Elias
+  - Junko Tsukamoto
+  - Clarice W. Arns
+  - Douglas Soares da Silva
+  - Stanislav Mochkalev
+  - Raluca Savu
+  - Ljubica Tasic
+  publisher: Frontiers in Bioengineering and Biotechnology
+  date: '2022-05-12'
+  link: https://doi.org/hbt88r
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-70601-2_319
+  title: Influence of Visual Feedback Removal on the Neural Control Strategies During
+    Isometric Force Production
+  authors:
+  - C. M. Germer
+  - E. P. Zambalde
+  - L. A. Elias
+  publisher: IFMBE Proceedings
+  date: '2022-01-01'
+  link: https://doi.org/hbt88s
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JBIOMECH.2021.110866
+  title: 'Influence of central and peripheral motor unit properties on isometric muscle
+    force entropy: A computer simulation study'
+  authors:
+  - Jakob Dideriksen
+  - Leonardo Abdala Elias
+  - Ellen Pereira Zambalde
+  - Carina Marconi Germer
+  - "Ricardo Gon\xE7alves Molinari"
+  - Francesco Negro
+  publisher: Journal of Biomechanics
+  date: '2022-06-01'
+  link: https://doi.org/hbt88t
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
@@ -183,7 +333,7 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1109/access.2021.3108682
+- id: doi:10.1109/ACCESS.2021.3108682
   title: "A Data-Driven Biophysical Computational Model of Parkinson\u2019s Disease\
     \ Based on Marmoset Monkeys"
   authors:
@@ -202,18 +352,32 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1088/1741-2552/ab5e08
-  title: Neurophysiological correlates of force control improvement induced by sinusoidal
-    vibrotactile stimulation
+- id: doi:10.1117/12.2606261
+  title: Entropy of motor unit activity and surface electromyogram in an isometric
+    force task
   authors:
-  - Carina Marconi Germer
-  - Alessandro Del Vecchio
-  - Francesco Negro
+  - Ellen P. Zambalde
+  - Carina M. Germer
+  - Leonardo A. Elias
+  publisher: 17th International Symposium on Medical Information Processing and Analysis
+  date: '2021-12-10'
+  link: https://doi.org/hbt88v
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1152/JAPPLPHYSIOL.01041.2020
+  title: Surface EMG cross talk quantified at the motor unit population level for
+    muscles of the hand, thigh, and calf
+  authors:
+  - Carina M. Germer
   - Dario Farina
-  - Leonardo Abdala Elias
-  publisher: Journal of Neural Engineering
-  date: '2020-01-31'
-  link: https://doi.org/hbrsfs
+  - Leonardo A. Elias
+  - Stefano Nuccio
+  - "Fran\xE7ois Hug"
+  - Alessandro Del Vecchio
+  publisher: Journal of Applied Physiology
+  date: '2021-08-01'
+  link: https://doi.org/gk92kg
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
@@ -231,7 +395,22 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.archoralbio.2020.104683
+- id: doi:10.1088/1741-2552/AB5E08
+  title: Neurophysiological correlates of force control improvement induced by sinusoidal
+    vibrotactile stimulation
+  authors:
+  - Carina Marconi Germer
+  - Alessandro Del Vecchio
+  - Francesco Negro
+  - Dario Farina
+  - Leonardo Abdala Elias
+  publisher: Journal of Neural Engineering
+  date: '2020-01-31'
+  link: https://doi.org/hbrsfs
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ARCHORALBIO.2020.104683
   title: Reliable measurement of incisal bite force for understanding the control
     of masticatory muscles
   authors:
@@ -242,6 +421,32 @@
   publisher: Archives of Oral Biology
   date: '2020-04-01'
   link: https://doi.org/hbrsft
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/EMBC.2019.8857466
+  title: A computer simulation study on the influences of loss and damage of primary
+    muscle spindle afferents on soleus muscle stretch reflex
+  authors:
+  - Eliane C. Rodrigues
+  - Leonardo A. Elias
+  publisher: 2019 41st Annual International Conference of the IEEE Engineering in
+    Medicine and Biology Society (EMBC)
+  date: '2019-07-01'
+  link: https://doi.org/hbrsfw
+  orcid: 0000-0003-4488-3063
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S11517-019-01999-8
+  title: Sinusoidal vibrotactile stimulation differentially improves force steadiness
+    depending on contraction intensity
+  authors:
+  - Carina Marconi Germer
+  - Luciana Sobral Moreira
+  - Leonardo Abdala Elias
+  publisher: Medical &amp; Biological Engineering &amp; Computing
+  date: '2019-06-14'
+  link: https://doi.org/hbrsfv
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
@@ -259,32 +464,6 @@
   publisher: The Journal of Physiology
   date: '2019-10-30'
   link: https://doi.org/ggrk68
-  orcid: 0000-0003-4488-3063
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s11517-019-01999-8
-  title: Sinusoidal vibrotactile stimulation differentially improves force steadiness
-    depending on contraction intensity
-  authors:
-  - Carina Marconi Germer
-  - Luciana Sobral Moreira
-  - Leonardo Abdala Elias
-  publisher: Medical &amp; Biological Engineering &amp; Computing
-  date: '2019-06-14'
-  link: https://doi.org/hbrsfv
-  orcid: 0000-0003-4488-3063
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/embc.2019.8857466
-  title: A computer simulation study on the influences of loss and damage of primary
-    muscle spindle afferents on soleus muscle stretch reflex
-  authors:
-  - Eliane C. Rodrigues
-  - Leonardo A. Elias
-  publisher: 2019 41st Annual International Conference of the IEEE Engineering in
-    Medicine and Biology Society (EMBC)
-  date: '2019-07-01'
-  link: https://doi.org/hbrsfw
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
@@ -317,7 +496,7 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/fnhum.2017.00019
+- id: doi:10.3389/FNHUM.2017.00019
   title: Reassessment of Non-Monosynaptic Excitation from the Motor Cortex to Motoneurons
     in Single Motor Units of the Human Biceps Brachii
   authors:
@@ -336,7 +515,7 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pone.0143862
+- id: doi:10.1371/JOURNAL.PONE.0143862
   title: D1 and D2 Inhibitions of the Soleus H-Reflex Are Differentially Modulated
     during Plantarflexion Force and Position Tasks
   authors:
@@ -352,7 +531,7 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pone.0121496
+- id: doi:10.1371/JOURNAL.PONE.0121496
   title: 'Enhanced D1 and D2 Inhibitions Induced by Low-Frequency Trains of Conditioning
     Stimuli: Differential Effects on H- and T-Reflexes and Possible Mechanisms'
   authors:
@@ -367,7 +546,7 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1003944
+- id: doi:10.1371/JOURNAL.PCBI.1003944
   title: 'Spinal Mechanisms May Provide a Combination of Intermittent and Continuous
     Control of Human Posture: Predictions from a Biologically Based Neuromusculoskeletal
     Model'
@@ -381,7 +560,7 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neucom.2012.06.038
+- id: doi:10.1016/J.NEUCOM.2012.06.038
   title: Individual and collective properties of computationally efficient motoneuron
     models of types S and F with active dendrites
   authors:
@@ -393,7 +572,7 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1152/jn.00073.2013
+- id: doi:10.1152/JN.00073.2013
   title: Influences of premotoneuronal command statistics on the scaling of motor
     output variability during isometric plantar flexion
   authors:
@@ -449,7 +628,7 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s10827-012-0398-4
+- id: doi:10.1007/S10827-012-0398-4
   title: Models of passive and active dendrite motoneuron pools and their differences
     in muscle force control
   authors:
@@ -462,7 +641,7 @@
   orcid: 0000-0003-4488-3063
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neucom.2009.02.006
+- id: doi:10.1016/J.NEUCOM.2009.02.006
   title: 'Accommodation in motoneuron models with passive dendrite: Response to linearly
     rising currents'
   authors:
