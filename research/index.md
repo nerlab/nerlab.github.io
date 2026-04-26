@@ -14,7 +14,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Spinal Mechanisms May Provide a Combination of Intermittent and Continuous
+    Control of Human Posture: Predictions from a Biologically Based Neuromusculoskeletal
+    Model" style="rich" %}
 
 {% include section.html %}
 
